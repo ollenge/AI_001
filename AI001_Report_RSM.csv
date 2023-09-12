@@ -1,4 +1,4 @@
-﻿Melt Temperature [°C],Mold Temperature [°C],Filling Time [sec],Packing Time [sec],Max. Injection Pressure Profile Value [%],Warpage_X-Displacement [mm] (Max)
+﻿Melt Temperature,Mold Temperature,Filling Time,Packing Time,Max. Injection Pressure, Warpage_X-Displacement
 195,45,0.8,3,70,0.314788
 195,45,1,4,85,0.311267
 195,45,1.2,5,100,0.314206
